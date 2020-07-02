@@ -1,0 +1,108 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+
+
+.name-highlight{
+    color: orange;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 3%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+
+   
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+   
+}
+.link-button{
+
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-size: 700;
+    background-image: linear-gradient(lightSalmon,tomato);
+
+}
+
+section{
+    height: 1000px;
+}
+
+.dream-area{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+}
+
+#latest-work{
+
+    text-align: center;
+    
+}
+.latest-work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+
+.latest-work-images{
+    
+  
+    width: 30%;
+    float: left;
+    padding: 20px;
+}
+
+
+.one{
+    width: 100%;
+    padding: 20px;
+}
+
+.client-say{
+    text-align: center;
+}
+
+#lorem-ipsum{
+    text-align: center;
+}
+
+.gmail{
+
+    margin: auto;
+    background-color: #EC4B73;
+    width: 33%;
+    margin-top: 50px;
+    text-align: center;
+    padding: 30px;
+    border-radius: 8px;
+}
+
+footer{
+    text-align: center;
+    font-weight: 50;
+}
+
+.client-back{
+
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+}
